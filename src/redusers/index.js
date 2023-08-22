@@ -1,0 +1,1 @@
+export {listsReduser} from './contactlist.reduser.js'
